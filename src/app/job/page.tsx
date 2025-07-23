@@ -1,9 +1,8 @@
-
 import React from "react";
-import JobCard from "../../components/JobCard";
-import { job_postings } from '../../data/job_postings';
+import JobCard from "../../../components/JobCard";
+import { job_postings } from '../../../data/job_postings';
 
-const Home = () => {
+const JobPage = () => {
 
   return (
     <div>
@@ -23,4 +22,4 @@ const Home = () => {
 
 }
 
-export default Home 
+export default JobPage 
