@@ -8,6 +8,7 @@ A simple and elegant job listing web app built using:
 
 ---
 
+
 ## 📑 Overview
 
 
@@ -19,7 +20,7 @@ This project includes:
 Data is loaded from a local TypeScript file (job_postings.ts) to simulate a job board experience.
 
 ---
-## Scren Shot
+## Screen Shot
   ![homePage1](./public/HomePage1.png)
   ![homePage2](./public/HomePage2.png)
   ![AboutPage](./public/AboutPage.png)
